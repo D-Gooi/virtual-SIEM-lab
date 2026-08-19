@@ -180,7 +180,7 @@ WindowsEvents
 
 Below is the result of when I inputted an unsolicited source IP into the above query:
 
-![Enriched query](images/enirched-query.png)
+![Enriched query](images/enriched-query.png)
 
 > We can now see that the results include cityname, countryname, latitude, longitude.
 
