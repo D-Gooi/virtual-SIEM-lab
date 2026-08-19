@@ -182,7 +182,7 @@ Below is the result of when I inputted an unsolicited source IP into the above q
 
 ![Enriched query](images/enriched-query.png)
 
-> We can now see that the results include cityname, countryname, latitude, longitude.
+> We can see that the results now include cityname, countryname, latitude, longitude attributes.
 
 ---
 
